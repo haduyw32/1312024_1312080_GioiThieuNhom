@@ -7,6 +7,7 @@
 /*==Style cơ bản cho website==*/
 body {
   font-family: sans-serif;
+  background-color: #FAF4F0;
   color: #333;
 }
 #menu ul {
@@ -58,7 +59,6 @@ body {
 }
 /*-------------------------------------*/
 #divM #menul {
-  background: #1F568B;
   list-style-type: none;
   text-align: left;
   width: 200px;
@@ -74,8 +74,9 @@ body {
     margin: 0;
     padding: 0;
     width: 200px;
-    background-color: #f1f1f1;
+    background-color: #1E90FF;
     height: 100px;
+    border: 10px;
 }
 
 #divM #menul li a {
@@ -84,14 +85,16 @@ body {
     padding: 20px 20px;
     text-decoration: none;
     height: 20px;
+    border-radius: 4px 4px 0 0;
+    text-decoration: none;
 }
 
 #divM #menul a:hover {
-    background-color: #555;
+    background-color: orange;
     color: white;
 }
 
-/*#divM #content img {
+/*#divM #content img {#f1f4f9
   width:50%; height:50;
   display: block;
   margin: 0 auto;
@@ -104,4 +107,25 @@ body {
 
 .conMem:hover {
   background-color: #FFFF7F;
+}
+/*----------------------------------*/
+#left {
+  line-height:30px;
+  width:120px;
+  height:300px;
+  float:left;
+  padding:50px;
+  text-align:center;  
+}
+#section {
+  color:#0b01d0;
+  width:500px;
+  float:left;
+  padding:100px; 
+  padding-left:250px;
+}
+#header {
+  color:#1004b6;
+  text-align:center;
+  padding:5px;
 }

@@ -1,16 +1,16 @@
-﻿# BT-UDPT-1 - *Name of your app*
+﻿# BT-UDPT-1 - *Web giới thiệu nhóm 1312080-1312024*
 
 **Name of your app** là một bài tập 1 tại môn UDPT.
 
-Thành viên: **Tên và mã số sinh viên thành viên**
+Thành viên: **Hà Xuân Duy - 1312080. Phạm Trọng Ân - 1312024**
 
-URL: **URL hosting của bài tập**
+URL: **http://udpt080-024.hol.es**
 
 ## Yêu cầu
 
 Yêu cầu **GIT**:
 
-* [ ] Có sử dụng GIT.
+* [x] Có sử dụng GIT.
 * [ ] Sử dụng GIT trên 1 branch.
 * [ ] Sử dụng GIT theo Centralized Workflow.
 * [ ] Sử dụng GIT theo Feature Branch Workflow.
@@ -18,16 +18,16 @@ Yêu cầu **GIT**:
 
 Yêu cầu **thiết kế**:
 
-* [* ] Thiết kế theo table.
-* [ *] Thiết kế với div.
+* [x] Thiết kế theo table.
+* [x] Thiết kế với div.
 * [ ] Thiết kế nâng cao
-    * [ *] Navigation, header, footer, sidebar.
-    * [* ] Các hiệu ứng: hover, focus,...
+    * [x] Navigation, header, footer, sidebar.
+    * [x] Các hiệu ứng: hover, focus,...
 * [ ] Thiết kế chạy trên nhiều trình duyệt
-    * [ *] IE
+    * [x] IE
     * [ ] Firefox
-    * [ ] Chrome
-    * [ ] Icon, màu sắc,...
+    * [x] Chrome
+    * [x] Icon, màu sắc,...
 * [ ] Thiết kế responsive
 
 Liệt kê các **yêu cầu nâng cao** đã thực hiện:
